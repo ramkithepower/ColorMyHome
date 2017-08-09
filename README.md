@@ -7,7 +7,7 @@ LED Strip (WS2812B or WS2811)
 3v - 5v logic level shifter
 connecting wires
 
-#Software requirements
+# Software requirements
 Arduino IDE installed with 
   - Homie 2.0.0
   - ESP8266 Board manager
